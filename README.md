@@ -12,6 +12,10 @@ A XBOX controller button mapping program to emulate FINAL FANTASY XIV's control 
 
 
 
+## Downloads
+
+https://github.com/JRustyHaner/WoWXIV/raw/master/release/1.0.0/WoWXIV-release-1.0.0.zip
+
 ## Deployment
 
 To deploy this project, copy the the release folder to your prefered directory. 
